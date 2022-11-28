@@ -24,7 +24,7 @@ function Processing() {
         chequeNumber: 950020,
       });
       setIsLoading(false);
-    }, 500);
+    }, 1500);
   }, [formData]);
 
   return (
